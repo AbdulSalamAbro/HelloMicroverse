@@ -115,14 +115,18 @@ You can deploy this project using:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 Abdul Salam
 
 - GitHub: [@Abdul Salam](https://github.com/AbdulSalamAbro)
 - Twitter: [@Abdul Salam](https://twitter.com/Abdul_SalamAbro)
 - LinkedIn: [@Abdul Salam](https://www.linkedin.com/in/abdul-salam-abro/)
 
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features.
+-[ ] Add navbar Session
+- [ ] Add media contents and about session
+- [ ] Add footer
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
  
